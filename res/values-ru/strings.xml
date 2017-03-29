@@ -3331,4 +3331,11 @@
     <string name="automatic_storage_manager_activation_warning" msgid="6353100011690933254">"Память устройства теперь управляется менеджером хранилища"</string>
     <string name="carrier_provisioning" msgid="4398683675591893169">"Сведения об операторе"</string>
     <string name="trigger_carrier_provisioning" msgid="3434865918009286187">"Запустить синхронизацию оператора"</string>
+    <string name="screenshot_sound_title">Звук скриншота</string>
+    <string name="screenshot_sound_summary">Воспроизводить звуковой эффект при снятии скриншота</string>
+    <string name="unlock_quick_unlock_control_title">Быстрая разблокировка</string>
+    <string name="unlock_quick_unlock_control_summary">Автоматическая разблокировка при вводе правильного PIN-кода\n(только для 4-х цифр, используйте с осторожностью!)</string>
+    <string name="camera_sounds_title">Звук затвора камеры</string>
+    <string name="media_art_title">Медиа обложка</string>
+    <string name="media_art_summary">Включить обложку медиафайлов на экране блокировки</string>
 </resources>
