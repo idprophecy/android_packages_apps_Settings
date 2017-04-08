@@ -215,6 +215,12 @@
             android:title="@string/force_authorize_substratum_packages_title"
             android:summary="@string/force_authorize_substratum_packages_summary" />
 
+        <cyanogenmod.preference.SecureSettingSwitchPreference
+            android:key="allow_signature_fake"
+            android:title="@string/allow_signature_fake"
+            android:summary="@string/allow_signature_fake_summary"
+            android:defaultValue="false" />
+
     </PreferenceCategory>
 
     <PreferenceCategory android:key="debug_networking_category"
