@@ -434,4 +434,25 @@
   <string name="ic_code_full">Код IC: %1$s</string>
   <!-- Label for settings shortcut: carrier selection -->
   <string name="shortcut_carrier_title">Операторы сети</string>
+  <!-- Color engine -->
+  <string name="theme_switch_palette">Переключение между основным и акцентным цветами</string>
+  <string name="theme_title">Цвета</string>
+  <string name="theme_summary">Выберите различные цвета для своей текущей темы</string>
+  <string name="theme_accent_color">Акцентный цвет</string>
+  <string name="theme_primary_color">Основной цвет</string>
+  <string name="theme">Тема</string>
+  <string name="oms_enabled">Изменение цвета недоступно, потому что в настоящее время применяется Substratum theme</string>
+  <string name="red">Ярко-красный</string>
+  <string name="orange">Киноварь</string>
+  <string name="blue">Голубой Pixel</string>
+  <string name="green">Лайм</string>
+  <string name="yellow">Жёлтый</string>
+  <string name="purple">Пурпурный</string>
+  <string name="pink">Розовый</string>
+  <string name="dark">Тёмный</string>
+  <string name="pixel">Pixel</string>
+  <string name="teal">По умолчанию</string>
+  <string name="cyan">Циан</string>
+  <string name="grey">Серый</string>
+  <string name="default_string">По умолчанию</string>
 </resources>
